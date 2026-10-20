@@ -1,0 +1,6 @@
+{
+  "appId": "com.projectfootball.pf27",
+  "appName": "Project Football 27",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
